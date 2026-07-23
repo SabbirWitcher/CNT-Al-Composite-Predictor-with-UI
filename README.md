@@ -10,7 +10,7 @@ This repository features a physics-informed ML workflow to predict Carbon Nanotu
   v. All the results will be completed automatically and finally the results will be zipped and prompted to download<br>
   vi. Download and save<br>
 
-#CNT_AL_Prediction_UI.ipynb
+# CNT_AL_Prediction_UI.ipynb
   i. From the outputs of the first notebook find the 4 files named "scaler_X.pkl", "scaler_Y.pkl", "model_metadata.json" and "best_model.pkl"<br>
   ii. Upload the second notebook to Colab and again select GPU environment<br>
   iii. Run All<br>
